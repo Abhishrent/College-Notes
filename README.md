@@ -2,7 +2,8 @@ This repository contains a collection of class notes and resources specifically 
 
 Semester|Subject|Source|
 --------|-------|------|
-|$5^\text{th}$|[Simulation and Modelling](5th%20Semester/Simulation%20and%20Modelling/Simulation&Modelling.md)|Class Notes, MBMC, 2079 Batch|
+|5|[Simulation and Modelling](./5th%20Semester/Simulation%20and%20Modelling)|Class Notes, MBMC, 2079 Batch|
+|5|[Web Technology](./5th%20Semester/Web%20Technology)|MicroSyllabus + ChatGPT|
 
 
 ---
